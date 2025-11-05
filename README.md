@@ -51,6 +51,21 @@ Analyzed **NVIDIA, Netflix, and AMD** stock performance over a 5-year period (20
 
 ---
 
+### 🎯 Marketing Campaign Performance (SQL + Excel)  
+Analyzed 45k+ customer records from a Portuguese banking campaign to identify top-performing marketing segments.  
+
+- Built SQL queries to calculate conversion rates by job, education, and contact type  
+- Created Excel dashboards with KPI cards, charts, and insights  
+- Generated a professional PDF report for portfolio presentation  
+
+💡 **Result:** Students and retired clients had the highest response rates, while cellular contact proved most effective.  
+
+📘 [View Full Project](https://github.com/sklaps/marketing-campaingn-analytics)  
+
+---
+
+
+
 ## 💼 Connect With Me  
 💬 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
 💻 [GitHub](https://github.com/sklaps)  
